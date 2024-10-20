@@ -9,6 +9,7 @@ Foi feito o seguinte exercício de um assistente que baseado na comida desejada 
 
 # Código do Asistente de Delivery
 
+"""
 {
   "Comment": "An example of using Bedrock to chain prompts and their responses together.",
   "StartAt": "Pergunta combinações",
@@ -96,3 +97,5 @@ Foi feito o seguinte exercício de um assistente que baseado na comida desejada 
     }
   }
 }
+
+"""
