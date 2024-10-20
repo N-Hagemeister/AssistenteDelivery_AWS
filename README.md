@@ -1,15 +1,10 @@
 # AssistenteDelivery_AWS
-Criando um Assistente de Delivery com AWS Step Functions e Bedrock
-
-# O que foi feito
-
-Para testar um método de automação de sequências de prompts.
+Criando um Assistente de Delivery com AWS Step Functions e Bedrock para testar um método de automação de sequências de prompts.
 
 Foi feito o seguinte exercício de um assistente que baseado na comida desejada e cidade, recomenda combinações de comida, bebidas e locais para a refeição.
 
 # Código do Asistente de Delivery
 
-"
 {
   "Comment": "An example of using Bedrock to chain prompts and their responses together.",
   "StartAt": "Pergunta combinações",
@@ -97,4 +92,3 @@ Foi feito o seguinte exercício de um assistente que baseado na comida desejada 
     }
   }
 }
-"
